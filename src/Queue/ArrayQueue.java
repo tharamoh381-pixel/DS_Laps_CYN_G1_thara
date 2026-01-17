@@ -8,6 +8,7 @@ public class ArrayQueue<E> implements Queue<E>{
 
 
 
+
     public ArrayQueue(int c) {
         arr=(E[])new Object[c];
 

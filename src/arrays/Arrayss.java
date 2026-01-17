@@ -76,6 +76,7 @@ public class Arrayss {
         return -1;
     }
 
+
     public int binarySearch(int[] a, int svalue) {
         int findex = 0;
         int lindex = a.length - 1;

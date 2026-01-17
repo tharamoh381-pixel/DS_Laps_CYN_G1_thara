@@ -14,6 +14,7 @@ public class SLinkedQueque<E> implements Queue<E> {
         return slist.size();
     }
 
+
     @Override
     public void enqueue(E data) {
         slist.addLast(data);

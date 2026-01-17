@@ -9,6 +9,7 @@ public class DLinkedQueque<E> implements Queue<E> {
         return dlist.isEmpty();
     }
 
+
     @Override
     public int size() {
         return dlist.size();

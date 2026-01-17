@@ -55,6 +55,7 @@ public void addlast(E data){
        size++;
 }
 
+
     public E getLast(){
         if(isEmpty()) return null;
         return tail.getData();

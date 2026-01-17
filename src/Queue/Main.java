@@ -12,6 +12,7 @@ public class Main {
         System.out.println("the front element is: "+aqueue.front());
         aqueue.display();
 
+
 //    while (!aqueue.isEmpty()){
 //        System.out.println("element removed: "+aqueue.dequeue());
 //    }

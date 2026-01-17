@@ -9,6 +9,7 @@ public class Main {
         //int []num2=new int[5];
 
 
+
 //        System.out.printf(Arrays.toString(num2));
          int []numbers={2,3,4,5,6,7,};
          Arrays.sort(numbers);
